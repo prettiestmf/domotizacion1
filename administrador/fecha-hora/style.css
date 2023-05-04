@@ -1,0 +1,17 @@
+.minimal-select {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #444;
+    background-color: #fff;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+  }
+  
+  .minimal-select option {
+    color: #444;
+    background-color: #fff;
+  }
